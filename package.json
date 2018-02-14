@@ -1,0 +1,16 @@
+{
+  "name": "nodeapp",
+  "version": "1.0.0",
+  "description": "my node app",
+  "main": "app/app.js",
+  "scripts": {
+    "start": "nodemon -e js,css,ejs,json app/app.js --watch app"
+  },
+  "author": "chandra",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "reload": "^2.2.2"
+  }
+}

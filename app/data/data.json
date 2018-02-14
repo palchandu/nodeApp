@@ -1,0 +1,39 @@
+{
+  "friends":[
+    {
+      "title":"Friend",
+      "name":"Abc",
+      "shortname":"Abc",
+      "summary":"sdsssadas dsdf",
+      "description":"fdfdkfdfdsfd"
+    },
+    {
+      "title":"Friend1",
+      "name":"Abc1",
+      "shortname":"Abc1",
+      "summary":"sdsssadas dsdf",
+      "description":"fdfdkfdfdsfd"
+    },
+    {
+      "title":"Friend2",
+      "name":"Abc2",
+      "shortname":"Abc2",
+      "summary":"sdsssadas dsdf",
+      "description":"fdfdkfdfdsfd"
+    },
+    {
+      "title":"Friend3",
+      "name":"Abc3",
+      "shortname":"Abc3",
+      "summary":"sdsssadas dsdf",
+      "description":"fdfdkfdfdsfd"
+    },
+    {
+      "title":"Friend4",
+      "name":"Abc4",
+      "shortname":"Abc4",
+      "summary":"sdsssadas dsdf",
+      "description":"fdfdkfdfdsfd"
+    }
+  ]
+}

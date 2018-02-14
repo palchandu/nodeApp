@@ -1,0 +1,22 @@
+<div class="col-sm-12 col-md-12 col-lg-12">
+  <table class="table">
+       <thead>
+           <tr>
+               <th>Name</th>
+               <th>Image</th>
+               <th>Summary</th>
+           </tr>
+       </thead>
+       <tbody>
+         <% friends.forEach(function(item){ %>
+           <tr>
+               <td><%= item.name %></td>
+               <td><img src="image/<%= item.name %>.png" style="width:150px; height:150px;" /></td>
+               <td><%= item.summary %></td>
+           </tr>
+         <% }) %>
+
+       </tbody>
+   </table>
+
+</div>
